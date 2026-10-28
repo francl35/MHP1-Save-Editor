@@ -1,8 +1,12 @@
 # Monster Hunter Portable 1 save editor 
 
- Monster Hunter Portable 1 (MHP1) (ULJM05066) Saveata editor. It supports **decrypted** `MHPSP.BIN` save file. This project does **not** decrypt/encrypt PSP savedata, update `PARAM.SFO`, or handle `SAVEDATA_PARAMS` PSP-level crypto. Back up saves before editing.
-
+ Monster Hunter Portable 1 (MHP1) (ULJM05066) Savedata editor. It supports **decrypted** `MHPSP.BIN` save file. This project does **not** decrypt/encrypt PSP savedata, update `PARAM.SFO`, or handle `SAVEDATA_PARAMS` PSP-level crypto. Back up saves before editing.
 In order to decrypt a save, you can do it in PPSSPP by deactivating savedata encryption.
+
+
+![alt text](<Capture d’écran 2026-10-28 à 10.35.00.png>)
+
+
 
 # Legal 
 
@@ -10,7 +14,7 @@ This project is a fan made project, Monster Hunter is a CAPCOM trademark franchi
 
 # AI Notice
 
-AI was used to help build this project and reverse engineer the savedata memory layout
+AI was used to help build this project and reverse engineer the savedata memory layout. 
 
 # Usage 
 
