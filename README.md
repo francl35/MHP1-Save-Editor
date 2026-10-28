@@ -4,7 +4,7 @@
 In order to decrypt a save, you can do it in PPSSPP by deactivating savedata encryption.
 
 
-![alt text](<Capture d’écran 2026-10-28 à 10.35.00.png>)
+![alt text](<capture.png>)
 
 
 
