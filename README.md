@@ -4,6 +4,14 @@
 
 In order to decrypt a save, you can do it in PPSSPP by deactivating savedata encryption.
 
+# Legal 
+
+This project is a fan made project, Monster Hunter is a CAPCOM trademark franchise, all related trademarks, and other intellectual property belong to their respective owners.
+
+# AI Notice
+
+AI was used to help build this project and reverse engineer the savedata memory layout
+
 # Usage 
 
 ## Build the dependency-free core and CLI
